@@ -33,8 +33,8 @@ A Python/Pandas project that cleans a messy 185-row sales dataset in Google Cola
 - **Everything is traceable:** `*_imputed` and `*_outlier` columns record every change.
 
 ## How to Run
-1. Open the notebook in Google Colab: [Open in Colab]([YOUR_COLAB_LINK](https://colab.research.google.com/drive/1ZiBqK2J6CkKPI0uivJx0tMqgBx-AOZ-m?usp=sharing))
-2. Run all cells in order (**Runtime → Run all**).
+1. Open the notebook in Google Colab: [Open in Colab](https://colab.research.google.com/drive/1ZiBqK2J6CkKPI0uivJx0tMqgBx-AOZ-m?usp=sharing)
+2. 2. Run all cells in order (**Runtime → Run all**).
 3. When prompted, upload `Messy_data.csv`.
 4. The cleaned files download automatically at the end.
 
